@@ -62,12 +62,8 @@ CREATE TABLE marks (
 ```
 ## Backend Setup
 git clone https://github.com/Shivam-Tidke/machine-test-server
-cd machine-test-server
-npm install
-npm start
+
 
 ## Frontend Setup
 git clone https://github.com/Shivam-Tidke/machine-test-client
-cd machine-test-client
-npm install
-npm start
+
